@@ -13,12 +13,12 @@ defineProps({
 
 <template>
   <div class="stats">
-    <span>Preguntadas: {{ stats.asked }}</span>
-    <span>Correctas: {{ stats.correct }}</span>
-    <span>Incorrectas: {{ stats.incorrect }}</span>
-    <span>Total: {{ total }}</span>
+    <span>{{ stats.correct }}/{{ stats.asked }}</span>
+    <span>❌ {{ stats.incorrect }}</span>
+    <span>📘 {{ total }}</span>
   </div>
 </template>
+
 
 <style scoped>
 .stats {

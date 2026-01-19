@@ -1,11 +1,16 @@
 <script setup>
+import { computed } from 'vue';
+
+const direction = ref('it-es'); // 'it-es' | 'es-it'
+ 
+import { resetProgress } from './services/storage';
 import StatsBar from './components/StatsBar.vue';
 import { ref, onMounted } from 'vue';
 import { generateQuestion } from './services/quizEngine';
 import { loadProgress, saveProgress, updateProgress } from './services/storage';
 
-
-
+const selectedOption = ref(null);
+const onlyFailed = ref(false);
 const vocab = ref([]);
 const question = ref(null);
 const feedback = ref(null);
@@ -18,14 +23,27 @@ onMounted(async () => {
 });
 
 function nextQuestion() {
-  question.value = generateQuestion(vocab.value, progress.value);
+  question.value = generateQuestion(
+    vocab.value,
+    progress.value,
+    direction.value,
+    onlyFailed.value
+  );
+
+  selectedOption.value = null;
+
   
   feedback.value = null;
 }
 
+
 function answer(option) {
+  if (feedback.value) return;
+
+  selectedOption.value = option;
+
   const isCorrect = option === question.value.correct;
-  feedback.value = isCorrect ? '✅ Correcto' : '❌ Incorrecto';
+  feedback.value = isCorrect ? 'correct' : 'wrong';
 
   updateProgress(
     progress.value,
@@ -33,13 +51,32 @@ function answer(option) {
     isCorrect
   );
 
-  progress.value.lastWords.push(question.value.word.id);
-  if (progress.value.lastWords.length > 5) {
-    progress.value.lastWords.shift();
-  }
-
   saveProgress(progress.value);
 }
+
+
+
+function resetAll() {
+  const ok = confirm(
+    '¿Seguro que quieres reiniciar todo el progreso?\nEsta acción no se puede deshacer.'
+  );
+
+  if (!ok) return;
+
+  progress.value = resetProgress();
+  nextQuestion();
+}
+
+function toggleDirection() {
+  direction.value = direction.value === 'it-es' ? 'es-it' : 'it-es';
+  nextQuestion();
+}
+
+function toggleFailed() {
+  onlyFailed.value = !onlyFailed.value;
+  nextQuestion();
+}
+
 
 </script>
 
@@ -51,10 +88,24 @@ function answer(option) {
   :total="vocab.length"
   />
 
+  <div class="controls">
+    <button class="secondary small" @click="resetAll">
+      Reiniciar
+    </button>
+
+    <button class="secondary small" @click="toggleDirection">
+      {{ direction === 'it-es' ? 'IT→ES' : 'ES→IT' }}
+    </button>
+
+    <button class="secondary small" @click="toggleFailed">
+      {{ onlyFailed ? 'Normal' : 'Falladas' }}
+    </button>
+  </div>
+
 
   <div v-if="question">
-    <p style="font-size: 2rem;">
-      {{ question.word.it }}
+    <p class="word">
+      {{ direction === 'it-es' ? question.word.it : question.word.es }}
     </p>
 
     <div>
@@ -62,10 +113,13 @@ function answer(option) {
         v-for="opt in question.options"
         :key="opt"
         @click="answer(opt)"
-        style="display:block; margin:0.5rem 0;"
-      >
+        :class="{
+          correct: feedback && opt === question.correct,
+          wrong: feedback && opt === selectedOption && opt !== question.correct
+        }">
         {{ opt }}
       </button>
+
     </div>
 
     <p v-if="feedback">{{ feedback }}</p>

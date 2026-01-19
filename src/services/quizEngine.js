@@ -6,7 +6,20 @@ function randomFrom(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
 
-export function generateQuestion(vocab, progress) {
+export function generateQuestion(vocab, progress, direction, onlyFailed = false) {
+  let baseVocab = vocab;
+
+  if (onlyFailed) {
+    baseVocab = vocab.filter(w => {
+        const p = progress.words[w.id];
+        return p && p.incorrect > p.correct;
+    });
+
+    if (!baseVocab.length) {
+        baseVocab = vocab;
+    }
+  }
+  
   const lastWords = progress.lastWords || [];
 
   const unseen = vocab.filter(w => !progress.words[w.id]);
@@ -30,11 +43,15 @@ export function generateQuestion(vocab, progress) {
   if (!pool.length) pool = vocab;
 
   const word = randomFrom(pool);
-  const correct = word.es;
+  
+  const isItEs = direction === 'it-es';
+
+  const correct = isItEs ? word.es : word.it;
 
   const wrong = vocab
     .filter(w => w.id !== word.id)
-    .map(w => w.es);
+    .map(w => isItEs ? w.es : w.it);
+
 
   const options = shuffle([
     correct,
