@@ -1,0 +1,6212 @@
+[
+ {
+   "id": 1,
+   "it": "abbandonare",
+   "es": "abandonar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 2,
+   "it": "abbastanza",
+   "es": "bastante / suficiente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 3,
+   "it": "abbigliamento",
+   "es": "vestimenta / ropa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 4,
+   "it": "abitante",
+   "es": "habitante",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 5,
+   "it": "abitudine",
+   "es": "hábito / costumbre",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 6,
+   "it": "accadere",
+   "es": "suceder / ocurrir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 7,
+   "it": "accanto",
+   "es": "al lado / junto a",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 8,
+   "it": "accendere",
+   "es": "encender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 9,
+   "it": "accettare",
+   "es": "aceptar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 10,
+   "it": "accogliere",
+   "es": "acoger / recibir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 11,
+   "it": "accomodare",
+   "es": "acomodar / arreglar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 12,
+   "it": "accompagnare",
+   "es": "acompañar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 13,
+   "it": "accordo",
+   "es": "acuerdo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 14,
+   "it": "accorgersi",
+   "es": "darse cuenta",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 15,
+   "it": "accusare",
+   "es": "acusar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 16,
+   "it": "acido",
+   "es": "ácido",
+   "categoria": "Adjetivo/Sust."
+ },
+ {
+   "id": 17,
+   "it": "acquisire",
+   "es": "adquirir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 18,
+   "it": "acquisto",
+   "es": "compra / adquisición",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 19,
+   "it": "adattare",
+   "es": "adaptar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 20,
+   "it": "adatto",
+   "es": "adecuado / apto",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 21,
+   "it": "addirittura",
+   "es": "incluso / hasta / realmente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 22,
+   "it": "addosso",
+   "es": "encima / puesto (ropa)",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 23,
+   "it": "adeguare",
+   "es": "adecuar / ajustar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 24,
+   "it": "adolescente",
+   "es": "adolescente",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 25,
+   "it": "adoperare",
+   "es": "usar / emplear",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 26,
+   "it": "affascinante",
+   "es": "fascinante",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 27,
+   "it": "affermare",
+   "es": "afirmar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 28,
+   "it": "affetto",
+   "es": "afecto / cariño",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 29,
+   "it": "affinché",
+   "es": "para que / a fin de que",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 30,
+   "it": "affrontare",
+   "es": "afrontar / enfrentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 31,
+   "it": "aggiungere",
+   "es": "añadir / agregar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 32,
+   "it": "agire",
+   "es": "actuar / obrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 33,
+   "it": "agitare",
+   "es": "agitar / poner nervioso",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 34,
+   "it": "almeno",
+   "es": "al menos",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 35,
+   "it": "altrimenti",
+   "es": "de lo contrario",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 36,
+   "it": "alzare",
+   "es": "levantar / alzar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 37,
+   "it": "ambiente",
+   "es": "ambiente / entorno",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 38,
+   "it": "amicizia",
+   "es": "amistad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 39,
+   "it": "ammettere",
+   "es": "admitir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 40,
+   "it": "ammirare",
+   "es": "admirar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 41,
+   "it": "ampio",
+   "es": "amplio",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 42,
+   "it": "analizzare",
+   "es": "analizar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 43,
+   "it": "angolo",
+   "es": "esquina / rincón / ángulo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 44,
+   "it": "anima",
+   "es": "alma",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 45,
+   "it": "annoiarsi",
+   "es": "aburrirsi",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 46,
+   "it": "ansia",
+   "es": "ansiedad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 47,
+   "it": "anzi",
+   "es": "al contrario / más bien",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 48,
+   "it": "anziano",
+   "es": "anciano / mayor",
+   "categoria": "Adjetivo/Sust."
+ },
+ {
+   "id": 49,
+   "it": "apparecchio",
+   "es": "aparato",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 50,
+   "it": "apparenza",
+   "es": "apariencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 51,
+   "it": "apparire",
+   "es": "aparecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 52,
+   "it": "appartenere",
+   "es": "pertenecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 53,
+   "it": "appena",
+   "es": "apenas / recién",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 54,
+   "it": "apposta",
+   "es": "adrede / a propósito",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 55,
+   "it": "apprezzare",
+   "es": "apreciar / valorar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 56,
+   "it": "approfittare",
+   "es": "aprovechar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 57,
+   "it": "argomento",
+   "es": "tema / argumento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 58,
+   "it": "arrestare",
+   "es": "arrestar / detener",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 59,
+   "it": "arrivo",
+   "es": "llegada",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 60,
+   "it": "arte",
+   "es": "arte",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 61,
+   "it": "articolo",
+   "es": "artículo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 62,
+   "it": "ascolto",
+   "es": "escucha",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 63,
+   "it": "aspetto",
+   "es": "aspecto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 64,
+   "it": "assaggiare",
+   "es": "probar (comida)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 65,
+   "it": "assenza",
+   "es": "ausencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 66,
+   "it": "assicurare",
+   "es": "asegurar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 67,
+   "it": "assistere",
+   "es": "asistir (presenciar/ayudar)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 68,
+   "it": "assolutamente",
+   "es": "absolutamente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 69,
+   "it": "assumere",
+   "es": "asumir / contratar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 70,
+   "it": "attaccare",
+   "es": "atacar / pegar (adhesivo)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 71,
+   "it": "atteggiamento",
+   "es": "actitud",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 72,
+   "it": "attendere",
+   "es": "esperar (formal)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 73,
+   "it": "attento",
+   "es": "atento",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 74,
+   "it": "attenzione",
+   "es": "atención",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 75,
+   "it": "attirare",
+   "es": "atraer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 76,
+   "it": "attività",
+   "es": "actividad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 77,
+   "it": "attore",
+   "es": "actor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 78,
+   "it": "attorno",
+   "es": "alrededor",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 79,
+   "it": "attraversare",
+   "es": "cruzar / atravesar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 80,
+   "it": "attraverso",
+   "es": "a través de",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 81,
+   "it": "attuale",
+   "es": "actual",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 82,
+   "it": "aumentare",
+   "es": "aumentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 83,
+   "it": "aumento",
+   "es": "aumento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 84,
+   "it": "autore",
+   "es": "autor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 85,
+   "it": "autorità",
+   "es": "autoridad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 86,
+   "it": "avanzare",
+   "es": "avanzar / sobrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 87,
+   "it": "avvenimento",
+   "es": "acontecimiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 88,
+   "it": "avvenire",
+   "es": "porvenir / futuro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 89,
+   "it": "avvisare",
+   "es": "avisar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 90,
+   "it": "avvocato",
+   "es": "abogado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 91,
+   "it": "azienda",
+   "es": "empresa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 92,
+   "it": "azione",
+   "es": "acción",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 93,
+   "it": "baciare",
+   "es": "besar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 94,
+   "it": "badare",
+   "es": "cuidar / prestar atención",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 95,
+   "it": "battaglia",
+   "es": "batalla",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 96,
+   "it": "battere",
+   "es": "golpear / batir / vencer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 97,
+   "it": "bellezza",
+   "es": "belleza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 98,
+   "it": "benché",
+   "es": "aunque",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 99,
+   "it": "bensì",
+   "es": "sino (contraposición)",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 100,
+   "it": "bisognare",
+   "es": "ser necesario",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 101,
+   "it": "bisogno",
+   "es": "necesidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 102,
+   "it": "bloccare",
+   "es": "bloquear",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 103,
+   "it": "bordo",
+   "es": "borde / bordo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 104,
+   "it": "bugia",
+   "es": "mentira",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 105,
+   "it": "buio",
+   "es": "oscuridad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 106,
+   "it": "cacciare",
+   "es": "cazar / echar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 107,
+   "it": "caduta",
+   "es": "caída",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 108,
+   "it": "calcolo",
+   "es": "cálculo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 109,
+   "it": "cambiamento",
+   "es": "cambio / transformación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 110,
+   "it": "campagna",
+   "es": "campo / campaña",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 111,
+   "it": "cancellare",
+   "es": "borrar / cancelar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 112,
+   "it": "capace",
+   "es": "capaz",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 113,
+   "it": "capacità",
+   "es": "capacidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 114,
+   "it": "capitare",
+   "es": "suceder / ir a parar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 115,
+   "it": "capo",
+   "es": "jefe / cabeza / prenda",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 116,
+   "it": "carattere",
+   "es": "carácter",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 117,
+   "it": "caratteristica",
+   "es": "característica",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 118,
+   "it": "carico",
+   "es": "carga / cargado",
+   "categoria": "Sust./Adj."
+ },
+ {
+   "id": 119,
+   "it": "caso",
+   "es": "caso / azar",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 120,
+   "it": "causa",
+   "es": "causa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 121,
+   "it": "cazzata",
+   "es": "tontería (vulgar)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 122,
+   "it": "cedere",
+   "es": "ceder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 123,
+   "it": "celebrare",
+   "es": "celebrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 124,
+   "it": "centrale",
+   "es": "central",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 125,
+   "it": "cercare",
+   "es": "buscar / intentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 126,
+   "it": "certezza",
+   "es": "certeza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 127,
+   "it": "chiacchierare",
+   "es": "charlar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 128,
+   "it": "chiarire",
+   "es": "aclarar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 129,
+   "it": "chiaro",
+   "es": "claro",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 130,
+   "it": "chiave",
+   "es": "llave / clave",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 131,
+   "it": "chiedere",
+   "es": "pedir / preguntar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 132,
+   "it": "chiudere",
+   "es": "cerrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 133,
+   "it": "chiunque",
+   "es": "cualquiera / quienquiera",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 134,
+   "it": "ciononostante",
+   "es": "no obstante",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 135,
+   "it": "ciò",
+   "es": "esto / eso / aquello",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 136,
+   "it": "circa",
+   "es": "aproximadamente / acerca de",
+   "categoria": "Adverbio/Prep"
+ },
+ {
+   "id": 137,
+   "it": "citare",
+   "es": "citar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 138,
+   "it": "cittadino",
+   "es": "ciudadano",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 139,
+   "it": "civile",
+   "es": "civil",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 140,
+   "it": "civiltà",
+   "es": "civilización",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 141,
+   "it": "cliente",
+   "es": "cliente",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 142,
+   "it": "clima",
+   "es": "clima",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 143,
+   "it": "cogliere",
+   "es": "coger / captar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 144,
+   "it": "collegare",
+   "es": "conectar / enlazar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 145,
+   "it": "colpa",
+   "es": "culpa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 146,
+   "it": "colpire",
+   "es": "golpear / impresionar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 147,
+   "it": "coltivare",
+   "es": "cultivar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 148,
+   "it": "comando",
+   "es": "mando / comando",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 149,
+   "it": "combattere",
+   "es": "combatir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 150,
+   "it": "combinare",
+   "es": "combinar / tramar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 151,
+   "it": "cominciare",
+   "es": "empezar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 152,
+   "it": "commentare",
+   "es": "comentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 153,
+   "it": "commercio",
+   "es": "comercio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 154,
+   "it": "commettere",
+   "es": "cometer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 155,
+   "it": "comodo",
+   "es": "cómodo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 156,
+   "it": "compagnia",
+   "es": "compañía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 157,
+   "it": "compiere",
+   "es": "cumplir / llevar a cabo",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 158,
+   "it": "completare",
+   "es": "completar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 159,
+   "it": "completamente",
+   "es": "completamente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 160,
+   "it": "complesso",
+   "es": "complejo",
+   "categoria": "Adjetivo/Sust."
+ },
+ {
+   "id": 161,
+   "it": "comportamento",
+   "es": "comportamiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 162,
+   "it": "comportare",
+   "es": "conllevar / implicar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 163,
+   "it": "comprendere",
+   "es": "comprender / incluir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 164,
+   "it": "comune",
+   "es": "común / municipio",
+   "categoria": "Adj./Sust."
+ },
+ {
+   "id": 165,
+   "it": "comunicare",
+   "es": "comunicar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 166,
+   "it": "comunque",
+   "es": "de todos modos / como sea",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 167,
+   "it": "concedere",
+   "es": "conceder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 168,
+   "it": "concentrare",
+   "es": "concentrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 169,
+   "it": "concetto",
+   "es": "concepto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 170,
+   "it": "concludere",
+   "es": "concluir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 171,
+   "it": "condizione",
+   "es": "condición",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 172,
+   "it": "condurre",
+   "es": "conducir / llevar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 173,
+   "it": "confermare",
+   "es": "confirmar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 174,
+   "it": "confessare",
+   "es": "confesar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 175,
+   "it": "confine",
+   "es": "frontera / confín",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 176,
+   "it": "confronto",
+   "es": "comparación / confrontación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 177,
+   "it": "confusione",
+   "es": "confusión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 178,
+   "it": "conoscenza",
+   "es": "conocimiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 179,
+   "it": "conseguenza",
+   "es": "consecuencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 180,
+   "it": "consentire",
+   "es": "permitir / consentir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 181,
+   "it": "conservare",
+   "es": "conservar / guardar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 182,
+   "it": "considerare",
+   "es": "considerar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 183,
+   "it": "consigliare",
+   "es": "aconsejar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 184,
+   "it": "consumare",
+   "es": "consumir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 185,
+   "it": "contare",
+   "es": "contar / importar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 186,
+   "it": "contatto",
+   "es": "contacto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 187,
+   "it": "contenere",
+   "es": "contener",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 188,
+   "it": "contento",
+   "es": "contento",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 189,
+   "it": "continuare",
+   "es": "continuar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 190,
+   "it": "conto",
+   "es": "cuenta",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 191,
+   "it": "contrario",
+   "es": "contrario",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 192,
+   "it": "controllo",
+   "es": "control",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 193,
+   "it": "convincere",
+   "es": "convencer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 194,
+   "it": "coprire",
+   "es": "cubrir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 195,
+   "it": "coraggio",
+   "es": "coraje / valor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 196,
+   "it": "correggere",
+   "es": "corregir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 197,
+   "it": "correre",
+   "es": "correr",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 198,
+   "it": "costante",
+   "es": "constante",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 199,
+   "it": "costituire",
+   "es": "constituir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 200,
+   "it": "costringere",
+   "es": "obligar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 201,
+   "it": "costruire",
+   "es": "construir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 202,
+   "it": "crescere",
+   "es": "crecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 203,
+   "it": "crisi",
+   "es": "crisis",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 204,
+   "it": "critica",
+   "es": "crítica",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 205,
+   "it": "cucire",
+   "es": "coser",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 206,
+   "it": "cultura",
+   "es": "cultura",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 207,
+   "it": "cura",
+   "es": "cura / cuidado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 208,
+   "it": "curare",
+   "es": "curar / cuidar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 209,
+   "it": "curiosità",
+   "es": "curiosidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 210,
+   "it": "danneggiare",
+   "es": "dañar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 211,
+   "it": "danno",
+   "es": "daño",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 212,
+   "it": "davvero",
+   "es": "de verdad / realmente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 213,
+   "it": "debole",
+   "es": "débil",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 214,
+   "it": "decidere",
+   "es": "decidir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 215,
+   "it": "decisione",
+   "es": "decisión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 216,
+   "it": "dedicare",
+   "es": "dedicar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 217,
+   "it": "definire",
+   "es": "definir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 218,
+   "it": "deluso",
+   "es": "decepcionado",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 219,
+   "it": "descrivere",
+   "es": "describir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 220,
+   "it": "desiderare",
+   "es": "desear",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 221,
+   "it": "desiderio",
+   "es": "deseo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 222,
+   "it": "destino",
+   "es": "destino",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 223,
+   "it": "determinare",
+   "es": "determinar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 224,
+   "it": "dettaglio",
+   "es": "detalle",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 225,
+   "it": "difendere",
+   "es": "defender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 226,
+   "it": "difetto",
+   "es": "defecto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 227,
+   "it": "differenza",
+   "es": "diferencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 228,
+   "it": "difficile",
+   "es": "difícil",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 229,
+   "it": "difficoltà",
+   "es": "dificultad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 230,
+   "it": "diffondere",
+   "es": "difundir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 231,
+   "it": "dimenticare",
+   "es": "olvidar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 232,
+   "it": "diminuire",
+   "es": "disminuir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 233,
+   "it": "dimostrare",
+   "es": "demostrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 234,
+   "it": "dipendere",
+   "es": "depender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 235,
+   "it": "dipingere",
+   "es": "pintar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 236,
+   "it": "direzione",
+   "es": "dirección",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 237,
+   "it": "diritto",
+   "es": "derecho",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 238,
+   "it": "disastro",
+   "es": "desastre",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 239,
+   "it": "discorso",
+   "es": "discurso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 240,
+   "it": "discussione",
+   "es": "discusión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 241,
+   "it": "discutere",
+   "es": "discutir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 242,
+   "it": "disegno",
+   "es": "dibujo / diseño",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 243,
+   "it": "disponibile",
+   "es": "disponible",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 244,
+   "it": "disposizione",
+   "es": "disposición",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 245,
+   "it": "distanza",
+   "es": "distancia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 246,
+   "it": "distinguere",
+   "es": "distinguir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 247,
+   "it": "distruggere",
+   "es": "destruir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 248,
+   "it": "disturbare",
+   "es": "molestar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 249,
+   "it": "divenire",
+   "es": "devenir / convertirse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 250,
+   "it": "diventare",
+   "es": "convertirse en / volverse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 251,
+   "it": "diverso",
+   "es": "diferente / distinto / vario",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 252,
+   "it": "dividere",
+   "es": "dividir / compartir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 253,
+   "it": "dolore",
+   "es": "dolor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 254,
+   "it": "domanda",
+   "es": "pregunta / solicitud",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 255,
+   "it": "domandare",
+   "es": "preguntar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 256,
+   "it": "dominare",
+   "es": "dominar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 257,
+   "it": "dono",
+   "es": "don / regalo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 258,
+   "it": "doppio",
+   "es": "doble",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 259,
+   "it": "dovere",
+   "es": "deber (tener que)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 260,
+   "it": "dovere",
+   "es": "deber (obligación)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 261,
+   "it": "dubbio",
+   "es": "duda",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 262,
+   "it": "dunque",
+   "es": "pues / por lo tanto",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 263,
+   "it": "durare",
+   "es": "durar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 264,
+   "it": "durante",
+   "es": "durante",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 265,
+   "it": "eccezionale",
+   "es": "excepcional",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 266,
+   "it": "economia",
+   "es": "economía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 267,
+   "it": "effetto",
+   "es": "efecto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 268,
+   "it": "efficace",
+   "es": "eficaz",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 269,
+   "it": "elemento",
+   "es": "elemento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 270,
+   "it": "elevare",
+   "es": "elevar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 271,
+   "it": "eliminare",
+   "es": "eliminar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 272,
+   "it": "emergenza",
+   "es": "emergencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 273,
+   "it": "emozione",
+   "es": "emoción",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 274,
+   "it": "energia",
+   "es": "energía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 275,
+   "it": "enorme",
+   "es": "enorme",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 276,
+   "it": "entrambi",
+   "es": "ambos",
+   "categoria": "Pronombre/Adj"
+ },
+ {
+   "id": 277,
+   "it": "entrare",
+   "es": "entrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 278,
+   "it": "epoca",
+   "es": "época",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 279,
+   "it": "eppure",
+   "es": "sin embargo",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 280,
+   "it": "errore",
+   "es": "error",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 281,
+   "it": "esagerare",
+   "es": "exagerar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 282,
+   "it": "esame",
+   "es": "examen",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 283,
+   "it": "esatto",
+   "es": "exacto",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 284,
+   "it": "escludere",
+   "es": "excluir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 285,
+   "it": "esempio",
+   "es": "ejemplo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 286,
+   "it": "esercitare",
+   "es": "ejercitar / ejercer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 287,
+   "it": "esercito",
+   "es": "ejército",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 288,
+   "it": "esigere",
+   "es": "exigir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 289,
+   "it": "esistenza",
+   "es": "existencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 290,
+   "it": "esistere",
+   "es": "existir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 291,
+   "it": "esperienza",
+   "es": "experiencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 292,
+   "it": "esporre",
+   "es": "exponer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 293,
+   "it": "espressione",
+   "es": "expresión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 294,
+   "it": "esprimere",
+   "es": "expresar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 295,
+   "it": "essenziale",
+   "es": "esencial",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 296,
+   "it": "essere",
+   "es": "ser / estar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 297,
+   "it": "estendere",
+   "es": "extender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 298,
+   "it": "estero",
+   "es": "extranjero (país/lugar)",
+   "categoria": "Sust./Adj."
+ },
+ {
+   "id": 299,
+   "it": "estremo",
+   "es": "extremo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 300,
+   "it": "età",
+   "es": "edad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 301,
+   "it": "evitare",
+   "es": "evitar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 302,
+   "it": "fabbrica",
+   "es": "fábrica",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 303,
+   "it": "faccenda",
+   "es": "asunto / faena",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 304,
+   "it": "facile",
+   "es": "fácil",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 305,
+   "it": "fallire",
+   "es": "fallar / quebrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 306,
+   "it": "FALSO",
+   "es": "FALSO",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 307,
+   "it": "fama",
+   "es": "fama",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 308,
+   "it": "fantasia",
+   "es": "fantasía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 309,
+   "it": "fase",
+   "es": "fase",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 310,
+   "it": "fatica",
+   "es": "fatiga / esfuerzo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 311,
+   "it": "fatto",
+   "es": "hecho",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 312,
+   "it": "favore",
+   "es": "favor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 313,
+   "it": "fede",
+   "es": "fe",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 314,
+   "it": "felicità",
+   "es": "felicidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 315,
+   "it": "ferire",
+   "es": "herir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 316,
+   "it": "fermare",
+   "es": "parar / detener",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 317,
+   "it": "fidarsi",
+   "es": "fiarse / confiar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 318,
+   "it": "fiducia",
+   "es": "confianza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 319,
+   "it": "figura",
+   "es": "figura",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 320,
+   "it": "fila",
+   "es": "fila / hilera",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 321,
+   "it": "film",
+   "es": "película",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 322,
+   "it": "filo",
+   "es": "hilo / cable",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 323,
+   "it": "finale",
+   "es": "final",
+   "categoria": "Adjetivo/Sust."
+ },
+ {
+   "id": 324,
+   "it": "finalmente",
+   "es": "por fin / finalmente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 325,
+   "it": "finché",
+   "es": "hasta que / mientras",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 326,
+   "it": "fine",
+   "es": "fin / final",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 327,
+   "it": "finire",
+   "es": "terminar / acabar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 328,
+   "it": "fino",
+   "es": "hasta",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 329,
+   "it": "finto",
+   "es": "falso / fingido",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 330,
+   "it": "fissare",
+   "es": "fijar / mirar fijamente",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 331,
+   "it": "follia",
+   "es": "locura",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 332,
+   "it": "folla",
+   "es": "multitud",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 333,
+   "it": "fondamentale",
+   "es": "fundamental",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 334,
+   "it": "fondo",
+   "es": "fondo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 335,
+   "it": "forma",
+   "es": "forma",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 336,
+   "it": "formare",
+   "es": "formar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 337,
+   "it": "fornire",
+   "es": "proveer / suministrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 338,
+   "it": "forse",
+   "es": "quizás",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 339,
+   "it": "forte",
+   "es": "fuerte",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 340,
+   "it": "fortuna",
+   "es": "suerte / fortuna",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 341,
+   "it": "forza",
+   "es": "fuerza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 342,
+   "it": "fotografia",
+   "es": "fotografía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 343,
+   "it": "fra",
+   "es": "entre",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 344,
+   "it": "frequentare",
+   "es": "frecuentar / asistir a",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 345,
+   "it": "fresco",
+   "es": "fresco",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 346,
+   "it": "fretta",
+   "es": "prisa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 347,
+   "it": "fuggire",
+   "es": "huir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 348,
+   "it": "fumo",
+   "es": "humo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 349,
+   "it": "funzionare",
+   "es": "funcionar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 350,
+   "it": "fuoco",
+   "es": "fuego",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 351,
+   "it": "fuori",
+   "es": "fuera",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 352,
+   "it": "furbo",
+   "es": "astuto / listo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 353,
+   "it": "futuro",
+   "es": "futuro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 354,
+   "it": "gamba",
+   "es": "pierna",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 355,
+   "it": "garantire",
+   "es": "garantizar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 356,
+   "it": "gelosia",
+   "es": "celos",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 357,
+   "it": "generale",
+   "es": "general",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 358,
+   "it": "genere",
+   "es": "género / tipo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 359,
+   "it": "gentile",
+   "es": "amable",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 360,
+   "it": "gestire",
+   "es": "gestionar / administrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 361,
+   "it": "gesto",
+   "es": "gesto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 362,
+   "it": "gettare",
+   "es": "arrojar / tirar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 363,
+   "it": "già",
+   "es": "ya",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 364,
+   "it": "gioco",
+   "es": "juego",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 365,
+   "it": "gioia",
+   "es": "alegría",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 366,
+   "it": "giornale",
+   "es": "periódico",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 367,
+   "it": "giovane",
+   "es": "joven",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 368,
+   "it": "girare",
+   "es": "girar / rodar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 369,
+   "it": "giro",
+   "es": "vuelta / giro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 370,
+   "it": "giù",
+   "es": "abajo",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 371,
+   "it": "giudicare",
+   "es": "juzgar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 372,
+   "it": "giudizio",
+   "es": "juicio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 373,
+   "it": "giungere",
+   "es": "llegar (formal)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 374,
+   "it": "giurare",
+   "es": "jurar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 375,
+   "it": "giustizia",
+   "es": "justicia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 376,
+   "it": "giusto",
+   "es": "justo / correcto",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 377,
+   "it": "godere",
+   "es": "gozar / disfrutar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 378,
+   "it": "governo",
+   "es": "gobierno",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 379,
+   "it": "grado",
+   "es": "grado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 380,
+   "it": "grave",
+   "es": "grave",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 381,
+   "it": "grazie",
+   "es": "gracias",
+   "categoria": "Interjección"
+ },
+ {
+   "id": 382,
+   "it": "gridare",
+   "es": "gritar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 383,
+   "it": "guadagnare",
+   "es": "ganar (dinero/tiempo)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 384,
+   "it": "guaio",
+   "es": "problema / lío",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 385,
+   "it": "guancia",
+   "es": "mejilla",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 386,
+   "it": "guardare",
+   "es": "mirar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 387,
+   "it": "guarire",
+   "es": "curar / sanar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 388,
+   "it": "guerra",
+   "es": "guerra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 389,
+   "it": "guida",
+   "es": "guía / conducción",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 390,
+   "it": "guidare",
+   "es": "conducir / guiar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 391,
+   "it": "gusto",
+   "es": "gusto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 392,
+   "it": "idea",
+   "es": "idea",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 393,
+   "it": "ieri",
+   "es": "ayer",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 394,
+   "it": "ignorare",
+   "es": "ignorar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 395,
+   "it": "immaginare",
+   "es": "imaginar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 396,
+   "it": "immagine",
+   "es": "imagen",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 397,
+   "it": "immediato",
+   "es": "inmediato",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 398,
+   "it": "imparare",
+   "es": "aprender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 399,
+   "it": "impedire",
+   "es": "impedir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 400,
+   "it": "impegno",
+   "es": "compromiso / empeño",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 401,
+   "it": "impiegare",
+   "es": "emplear / tardar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 402,
+   "it": "importanza",
+   "es": "importancia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 403,
+   "it": "importare",
+   "es": "importar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 404,
+   "it": "impossibile",
+   "es": "imposible",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 405,
+   "it": "impressione",
+   "es": "impresión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 406,
+   "it": "improvviso",
+   "es": "imprevisto / repentino",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 407,
+   "it": "in",
+   "es": "en",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 408,
+   "it": "incapace",
+   "es": "incapaz",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 409,
+   "it": "incarico",
+   "es": "encargo / cargo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 410,
+   "it": "incidente",
+   "es": "accidente",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 411,
+   "it": "incominciare",
+   "es": "comenzar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 412,
+   "it": "incontrare",
+   "es": "encontrar / reunirse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 413,
+   "it": "indicare",
+   "es": "indicar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 414,
+   "it": "indietro",
+   "es": "atrás",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 415,
+   "it": "indipendente",
+   "es": "independiente",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 416,
+   "it": "indirizzo",
+   "es": "dirección (postal/email)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 417,
+   "it": "indossare",
+   "es": "llevar puesto / ponerse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 418,
+   "it": "industria",
+   "es": "industria",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 419,
+   "it": "infatti",
+   "es": "de hecho",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 420,
+   "it": "infelice",
+   "es": "infeliz",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 421,
+   "it": "inferiore",
+   "es": "inferior",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 422,
+   "it": "influenzare",
+   "es": "influenciar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 423,
+   "it": "informare",
+   "es": "informar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 424,
+   "it": "informazione",
+   "es": "información",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 425,
+   "it": "ingannare",
+   "es": "engañar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 426,
+   "it": "ingresso",
+   "es": "entrada (lugar o acción)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 427,
+   "it": "inizio",
+   "es": "inicio / comienzo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 428,
+   "it": "innamorarsi",
+   "es": "enamorarse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 429,
+   "it": "inoltre",
+   "es": "además",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 430,
+   "it": "inquinamento",
+   "es": "contaminación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 431,
+   "it": "insegnare",
+   "es": "enseñar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 432,
+   "it": "inserire",
+   "es": "insertar / introducir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 433,
+   "it": "insieme",
+   "es": "juntos / conjunto",
+   "categoria": "Adverbio/Sust"
+ },
+ {
+   "id": 434,
+   "it": "insistere",
+   "es": "insistir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 435,
+   "it": "insomma",
+   "es": "en fin / en resumen",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 436,
+   "it": "intanto",
+   "es": "mientras tanto",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 437,
+   "it": "intelligenza",
+   "es": "inteligencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 438,
+   "it": "intendere",
+   "es": "entender / tener intención",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 439,
+   "it": "intenzione",
+   "es": "intención",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 440,
+   "it": "interessare",
+   "es": "interesar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 441,
+   "it": "interesse",
+   "es": "interés",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 442,
+   "it": "interno",
+   "es": "interno / interior",
+   "categoria": "Adjetivo/Sust"
+ },
+ {
+   "id": 443,
+   "it": "intero",
+   "es": "entero / todo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 444,
+   "it": "intervento",
+   "es": "intervención",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 445,
+   "it": "intervista",
+   "es": "entrevista",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 446,
+   "it": "inutile",
+   "es": "inútil",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 447,
+   "it": "invece",
+   "es": "en cambio / al contrario",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 448,
+   "it": "inventare",
+   "es": "inventar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 449,
+   "it": "inverno",
+   "es": "invierno",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 450,
+   "it": "investire",
+   "es": "invertir / atropellar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 451,
+   "it": "inviare",
+   "es": "enviar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 452,
+   "it": "invidia",
+   "es": "envidia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 453,
+   "it": "invitare",
+   "es": "invitar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 454,
+   "it": "invito",
+   "es": "invitación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 455,
+   "it": "ipotesi",
+   "es": "hipótesis",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 456,
+   "it": "isola",
+   "es": "isla",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 457,
+   "it": "istante",
+   "es": "instante",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 458,
+   "it": "istituto",
+   "es": "instituto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 459,
+   "it": "istruzione",
+   "es": "instrucción / educación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 460,
+   "it": "lago",
+   "es": "lago",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 461,
+   "it": "lamentare",
+   "es": "lamentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 462,
+   "it": "lanciare",
+   "es": "lanzar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 463,
+   "it": "largo",
+   "es": "ancho",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 464,
+   "it": "lasciare",
+   "es": "dejar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 465,
+   "it": "lato",
+   "es": "lado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 466,
+   "it": "lavorare",
+   "es": "trabajar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 467,
+   "it": "lavoro",
+   "es": "trabajo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 468,
+   "it": "legame",
+   "es": "vínculo / lazo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 469,
+   "it": "legare",
+   "es": "atar / ligar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 470,
+   "it": "legge",
+   "es": "ley",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 471,
+   "it": "leggere",
+   "es": "leer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 472,
+   "it": "leggero",
+   "es": "ligero",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 473,
+   "it": "lento",
+   "es": "lento",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 474,
+   "it": "lettera",
+   "es": "carta / letra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 475,
+   "it": "letto",
+   "es": "cama",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 476,
+   "it": "levare",
+   "es": "quitar / levantar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 477,
+   "it": "liberare",
+   "es": "liberar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 478,
+   "it": "libero",
+   "es": "libre",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 479,
+   "it": "libertà",
+   "es": "libertad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 480,
+   "it": "libro",
+   "es": "libro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 481,
+   "it": "limitare",
+   "es": "limitar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 482,
+   "it": "limite",
+   "es": "límite",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 483,
+   "it": "linea",
+   "es": "línea",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 484,
+   "it": "lingua",
+   "es": "lengua / idioma",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 485,
+   "it": "lite",
+   "es": "pelea / disputa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 486,
+   "it": "livello",
+   "es": "nivel",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 487,
+   "it": "locale",
+   "es": "local",
+   "categoria": "Adjetivo/Sust"
+ },
+ {
+   "id": 488,
+   "it": "lontano",
+   "es": "lejos / lejano",
+   "categoria": "Adjetivo/Adv"
+ },
+ {
+   "id": 489,
+   "it": "lotta",
+   "es": "lucha",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 490,
+   "it": "luce",
+   "es": "luz",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 491,
+   "it": "lunghezza",
+   "es": "longitud",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 492,
+   "it": "lungo",
+   "es": "largo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 493,
+   "it": "luogo",
+   "es": "lugar",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 494,
+   "it": "macchina",
+   "es": "coche / máquina",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 495,
+   "it": "magari",
+   "es": "ojalá / a lo mejor",
+   "categoria": "Interjección"
+ },
+ {
+   "id": 496,
+   "it": "maggioranza",
+   "es": "mayoría",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 497,
+   "it": "malattia",
+   "es": "enfermedad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 498,
+   "it": "male",
+   "es": "mal / dolor",
+   "categoria": "Adverbio/Sust"
+ },
+ {
+   "id": 499,
+   "it": "mancanza",
+   "es": "falta / carencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 500,
+   "it": "mancare",
+   "es": "faltar / echar de menos",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 501,
+   "it": "mandare",
+   "es": "enviar / mandar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 502,
+   "it": "mangiare",
+   "es": "comer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 503,
+   "it": "maniera",
+   "es": "manera",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 504,
+   "it": "manifestare",
+   "es": "manifestar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 505,
+   "it": "mano",
+   "es": "mano",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 506,
+   "it": "mantenere",
+   "es": "mantener",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 507,
+   "it": "mare",
+   "es": "mar",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 508,
+   "it": "materia",
+   "es": "materia / asignatura",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 509,
+   "it": "matrimonio",
+   "es": "boda / matrimonio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 510,
+   "it": "mattina",
+   "es": "mañana (momento día)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 511,
+   "it": "maturo",
+   "es": "maduro",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 512,
+   "it": "medicina",
+   "es": "medicina",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 513,
+   "it": "medico",
+   "es": "médico",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 514,
+   "it": "medio",
+   "es": "medio",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 515,
+   "it": "meglio",
+   "es": "mejor",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 516,
+   "it": "memoria",
+   "es": "memoria",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 517,
+   "it": "meno",
+   "es": "menos",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 518,
+   "it": "mente",
+   "es": "mente",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 519,
+   "it": "mentire",
+   "es": "mentir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 520,
+   "it": "mentre",
+   "es": "mientras",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 521,
+   "it": "meraviglia",
+   "es": "maravilla",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 522,
+   "it": "merito",
+   "es": "mérito",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 523,
+   "it": "mese",
+   "es": "mes",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 524,
+   "it": "messaggio",
+   "es": "mensaje",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 525,
+   "it": "mestiere",
+   "es": "oficio / profesión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 526,
+   "it": "metà",
+   "es": "mitad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 527,
+   "it": "metodo",
+   "es": "método",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 528,
+   "it": "mettere",
+   "es": "poner / meter",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 529,
+   "it": "mezzo",
+   "es": "medio / mitad",
+   "categoria": "Sust./Adj."
+ },
+ {
+   "id": 530,
+   "it": "mica",
+   "es": "en absoluto / ni mucho menos",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 531,
+   "it": "migliorare",
+   "es": "mejorar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 532,
+   "it": "migliore",
+   "es": "mejor",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 533,
+   "it": "minaccia",
+   "es": "amenaza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 534,
+   "it": "minimo",
+   "es": "mínimo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 535,
+   "it": "misura",
+   "es": "medida",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 536,
+   "it": "mobile",
+   "es": "mueble / móvil",
+   "categoria": "Sust./Adj."
+ },
+ {
+   "id": 537,
+   "it": "moda",
+   "es": "moda",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 538,
+   "it": "modello",
+   "es": "modelo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 539,
+   "it": "moderno",
+   "es": "moderno",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 540,
+   "it": "modo",
+   "es": "modo / manera",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 541,
+   "it": "moglie",
+   "es": "mujer / esposa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 542,
+   "it": "molto",
+   "es": "mucho / muy",
+   "categoria": "Adj./Adv."
+ },
+ {
+   "id": 543,
+   "it": "momento",
+   "es": "momento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 544,
+   "it": "mondo",
+   "es": "mundo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 545,
+   "it": "montagna",
+   "es": "montaña",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 546,
+   "it": "morale",
+   "es": "moral",
+   "categoria": "Sust./Adj."
+ },
+ {
+   "id": 547,
+   "it": "morire",
+   "es": "morir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 548,
+   "it": "morte",
+   "es": "muerte",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 549,
+   "it": "mostrare",
+   "es": "mostrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 550,
+   "it": "motivo",
+   "es": "motivo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 551,
+   "it": "movimento",
+   "es": "movimiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 552,
+   "it": "muovere",
+   "es": "mover",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 553,
+   "it": "muro",
+   "es": "muro / pared",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 554,
+   "it": "musica",
+   "es": "música",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 555,
+   "it": "nascere",
+   "es": "nacer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 556,
+   "it": "nascondere",
+   "es": "esconder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 557,
+   "it": "natura",
+   "es": "naturaleza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 558,
+   "it": "naturale",
+   "es": "natural",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 559,
+   "it": "nave",
+   "es": "barco / nave",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 560,
+   "it": "nazionale",
+   "es": "nacional",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 561,
+   "it": "nazione",
+   "es": "nación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 562,
+   "it": "neanche",
+   "es": "ni siquiera / tampoco",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 563,
+   "it": "necessario",
+   "es": "necesario",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 564,
+   "it": "negare",
+   "es": "negar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 565,
+   "it": "negozio",
+   "es": "tienda",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 566,
+   "it": "nemico",
+   "es": "enemigo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 567,
+   "it": "nemmeno",
+   "es": "ni siquiera / tampoco",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 568,
+   "it": "nero",
+   "es": "negro",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 569,
+   "it": "nessuno",
+   "es": "nadie / ninguno",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 570,
+   "it": "niente",
+   "es": "nada",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 571,
+   "it": "no",
+   "es": "no",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 572,
+   "it": "noia",
+   "es": "aburrimiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 573,
+   "it": "nome",
+   "es": "nombre",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 574,
+   "it": "nominare",
+   "es": "nombrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 575,
+   "it": "non",
+   "es": "no",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 576,
+   "it": "nonostante",
+   "es": "a pesar de / no obstante",
+   "categoria": "Prep./Cong."
+ },
+ {
+   "id": 577,
+   "it": "normale",
+   "es": "normal",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 578,
+   "it": "nostalgia",
+   "es": "nostalgia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 579,
+   "it": "notare",
+   "es": "notar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 580,
+   "it": "notizia",
+   "es": "noticia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 581,
+   "it": "notte",
+   "es": "noche",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 582,
+   "it": "nulla",
+   "es": "nada",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 583,
+   "it": "numero",
+   "es": "número",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 584,
+   "it": "nuovo",
+   "es": "nuevo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 585,
+   "it": "occasione",
+   "es": "ocasión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 586,
+   "it": "occhio",
+   "es": "ojo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 587,
+   "it": "occorrere",
+   "es": "hacer falta / ser necesario",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 588,
+   "it": "occupare",
+   "es": "ocupar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 589,
+   "it": "odiare",
+   "es": "odiar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 590,
+   "it": "odore",
+   "es": "olor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 591,
+   "it": "offendere",
+   "es": "ofender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 592,
+   "it": "offrire",
+   "es": "ofrecer / invitar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 593,
+   "it": "oggetto",
+   "es": "objeto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 594,
+   "it": "oggi",
+   "es": "hoy",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 595,
+   "it": "ogni",
+   "es": "cada",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 596,
+   "it": "oltre",
+   "es": "más allá de / además",
+   "categoria": "Prep./Adv."
+ },
+ {
+   "id": 597,
+   "it": "ombra",
+   "es": "sombra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 598,
+   "it": "onesto",
+   "es": "honesto",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 599,
+   "it": "onore",
+   "es": "honor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 600,
+   "it": "opera",
+   "es": "obra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 601,
+   "it": "opinione",
+   "es": "opinión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 602,
+   "it": "opporre",
+   "es": "oponer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 603,
+   "it": "opportuno",
+   "es": "oportuno",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 604,
+   "it": "oppure",
+   "es": "o bien / o",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 605,
+   "it": "ora",
+   "es": "hora / ahora",
+   "categoria": "Sust./Adv."
+ },
+ {
+   "id": 606,
+   "it": "oramai",
+   "es": "ya / a estas alturas",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 607,
+   "it": "ordinare",
+   "es": "ordenar / pedir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 608,
+   "it": "ordine",
+   "es": "orden",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 609,
+   "it": "orecchio",
+   "es": "oído / oreja",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 610,
+   "it": "orgoglio",
+   "es": "orgullo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 611,
+   "it": "origine",
+   "es": "origen",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 612,
+   "it": "orizzonte",
+   "es": "horizonte",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 613,
+   "it": "ormai",
+   "es": "ya",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 614,
+   "it": "oro",
+   "es": "oro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 615,
+   "it": "osservare",
+   "es": "observar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 616,
+   "it": "ottenere",
+   "es": "obtener",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 617,
+   "it": "ottimo",
+   "es": "óptimo / excelente",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 618,
+   "it": "ovunque",
+   "es": "dondequiera / en todas partes",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 619,
+   "it": "ovvio",
+   "es": "obvio",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 620,
+   "it": "pace",
+   "es": "paz",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 621,
+   "it": "padre",
+   "es": "padre",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 622,
+   "it": "padrone",
+   "es": "dueño / patrón",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 623,
+   "it": "paese",
+   "es": "país / pueblo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 624,
+   "it": "pagare",
+   "es": "pagar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 625,
+   "it": "pagina",
+   "es": "página",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 626,
+   "it": "paio",
+   "es": "par",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 627,
+   "it": "palazzo",
+   "es": "edificio / palacio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 628,
+   "it": "pane",
+   "es": "pan",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 629,
+   "it": "paragone",
+   "es": "comparación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 630,
+   "it": "parere",
+   "es": "parecer / opinión",
+   "categoria": "Verbo/Sust"
+ },
+ {
+   "id": 631,
+   "it": "parete",
+   "es": "pared",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 632,
+   "it": "parlare",
+   "es": "hablar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 633,
+   "it": "parola",
+   "es": "palabra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 634,
+   "it": "parte",
+   "es": "parte",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 635,
+   "it": "partecipare",
+   "es": "participar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 636,
+   "it": "particolare",
+   "es": "particular / detalle",
+   "categoria": "Adj./Sust."
+ },
+ {
+   "id": 637,
+   "it": "partire",
+   "es": "partir / salir / irse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 638,
+   "it": "partito",
+   "es": "partido (político)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 639,
+   "it": "passare",
+   "es": "pasar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 640,
+   "it": "passato",
+   "es": "pasado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 641,
+   "it": "passione",
+   "es": "pasión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 642,
+   "it": "passo",
+   "es": "paso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 643,
+   "it": "paura",
+   "es": "miedo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 644,
+   "it": "pazienza",
+   "es": "paciencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 645,
+   "it": "pazzo",
+   "es": "loco",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 646,
+   "it": "peccato",
+   "es": "pecado / lástima",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 647,
+   "it": "pelle",
+   "es": "piel",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 648,
+   "it": "pena",
+   "es": "pena",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 649,
+   "it": "pensare",
+   "es": "pensar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 650,
+   "it": "pensiero",
+   "es": "pensamiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 651,
+   "it": "per",
+   "es": "por / para",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 652,
+   "it": "perché",
+   "es": "por qué / porque",
+   "categoria": "Adv./Cong."
+ },
+ {
+   "id": 653,
+   "it": "perciò",
+   "es": "por eso",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 654,
+   "it": "perdere",
+   "es": "perder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 655,
+   "it": "pericolo",
+   "es": "peligro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 656,
+   "it": "periodo",
+   "es": "período",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 657,
+   "it": "permettere",
+   "es": "permitir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 658,
+   "it": "però",
+   "es": "pero",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 659,
+   "it": "persona",
+   "es": "persona",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 660,
+   "it": "personaggio",
+   "es": "personaje",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 661,
+   "it": "pesante",
+   "es": "pesado",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 662,
+   "it": "peso",
+   "es": "peso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 663,
+   "it": "pezzo",
+   "es": "trozo / pieza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 664,
+   "it": "piacere",
+   "es": "gustar / placer",
+   "categoria": "Verbo/Sust"
+ },
+ {
+   "id": 665,
+   "it": "piangere",
+   "es": "llorar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 666,
+   "it": "piano",
+   "es": "plano / piso / plan / despacio",
+   "categoria": "Sust./Adj."
+ },
+ {
+   "id": 667,
+   "it": "pianta",
+   "es": "planta / plano",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 668,
+   "it": "piazza",
+   "es": "plaza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 669,
+   "it": "piccolo",
+   "es": "pequeño",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 670,
+   "it": "piede",
+   "es": "pie",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 671,
+   "it": "pieno",
+   "es": "lleno",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 672,
+   "it": "pietra",
+   "es": "piedra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 673,
+   "it": "pietà",
+   "es": "piedad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 674,
+   "it": "piuttosto",
+   "es": "bastante / más bien",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 675,
+   "it": "poco",
+   "es": "poco",
+   "categoria": "Adjetivo/Adv"
+ },
+ {
+   "id": 676,
+   "it": "poesia",
+   "es": "poesía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 677,
+   "it": "poi",
+   "es": "luego / después",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 678,
+   "it": "poiché",
+   "es": "ya que / puesto que",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 679,
+   "it": "politica",
+   "es": "política",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 680,
+   "it": "polizia",
+   "es": "policía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 681,
+   "it": "popolo",
+   "es": "pueblo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 682,
+   "it": "porre",
+   "es": "poner (formal)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 683,
+   "it": "porta",
+   "es": "puerta",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 684,
+   "it": "portare",
+   "es": "llevar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 685,
+   "it": "porto",
+   "es": "puerto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 686,
+   "it": "posizione",
+   "es": "posición",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 687,
+   "it": "possedere",
+   "es": "poseer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 688,
+   "it": "possibile",
+   "es": "posible",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 689,
+   "it": "possibilità",
+   "es": "posibilidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 690,
+   "it": "posto",
+   "es": "lugar / sitio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 691,
+   "it": "potenza",
+   "es": "potencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 692,
+   "it": "potere",
+   "es": "poder",
+   "categoria": "Verbo/Sust"
+ },
+ {
+   "id": 693,
+   "it": "povero",
+   "es": "pobre",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 694,
+   "it": "pranzo",
+   "es": "almuerzo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 695,
+   "it": "pratica",
+   "es": "práctica",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 696,
+   "it": "pratico",
+   "es": "práctico",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 697,
+   "it": "preciso",
+   "es": "preciso",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 698,
+   "it": "preferire",
+   "es": "preferir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 699,
+   "it": "pregare",
+   "es": "rezar / rogar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 700,
+   "it": "prendere",
+   "es": "coger / tomar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 701,
+   "it": "preoccupare",
+   "es": "preocupar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 702,
+   "it": "preparare",
+   "es": "preparar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 703,
+   "it": "presentare",
+   "es": "presentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 704,
+   "it": "presente",
+   "es": "presente",
+   "categoria": "Adjetivo/Sust"
+ },
+ {
+   "id": 705,
+   "it": "presenza",
+   "es": "presencia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 706,
+   "it": "presto",
+   "es": "pronto / temprano",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 707,
+   "it": "pretesa",
+   "es": "pretensión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 708,
+   "it": "prevedere",
+   "es": "prever",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 709,
+   "it": "prezzo",
+   "es": "precio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 710,
+   "it": "prima",
+   "es": "antes",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 711,
+   "it": "principio",
+   "es": "principio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 712,
+   "it": "privato",
+   "es": "privado",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 713,
+   "it": "probabile",
+   "es": "probable",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 714,
+   "it": "problema",
+   "es": "problema",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 715,
+   "it": "procedere",
+   "es": "proceder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 716,
+   "it": "processo",
+   "es": "proceso / juicio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 717,
+   "it": "prodotto",
+   "es": "producto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 718,
+   "it": "produrre",
+   "es": "producir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 719,
+   "it": "produzione",
+   "es": "producción",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 720,
+   "it": "professore",
+   "es": "profesor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 721,
+   "it": "profondo",
+   "es": "profundo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 722,
+   "it": "progetto",
+   "es": "proyecto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 723,
+   "it": "programma",
+   "es": "programa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 724,
+   "it": "progresso",
+   "es": "progreso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 725,
+   "it": "promettere",
+   "es": "prometer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 726,
+   "it": "pronto",
+   "es": "listo / preparado",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 727,
+   "it": "proporre",
+   "es": "proponer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 728,
+   "it": "proposito",
+   "es": "propósito",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 729,
+   "it": "proposta",
+   "es": "propuesta",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 730,
+   "it": "proprio",
+   "es": "propio / realmente",
+   "categoria": "Adj./Adv."
+ },
+ {
+   "id": 731,
+   "it": "prossimo",
+   "es": "próximo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 732,
+   "it": "prova",
+   "es": "prueba",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 733,
+   "it": "provare",
+   "es": "probar / intentar / sentir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 734,
+   "it": "provincia",
+   "es": "provincia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 735,
+   "it": "provocare",
+   "es": "provocar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 736,
+   "it": "provvedere",
+   "es": "proveer / ocuparse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 737,
+   "it": "pubblico",
+   "es": "público",
+   "categoria": "Adjetivo/Sust"
+ },
+ {
+   "id": 738,
+   "it": "punto",
+   "es": "punto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 739,
+   "it": "pure",
+   "es": "también / incluso",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 740,
+   "it": "purtroppo",
+   "es": "desafortunadamente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 741,
+   "it": "quadro",
+   "es": "cuadro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 742,
+   "it": "qualche",
+   "es": "algún (seguido de singular)",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 743,
+   "it": "qualcosa",
+   "es": "algo",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 744,
+   "it": "qualcuno",
+   "es": "alguien",
+   "categoria": "Pronombre"
+ },
+ {
+   "id": 745,
+   "it": "quale",
+   "es": "cuál / el cual",
+   "categoria": "Adj./Pron."
+ },
+ {
+   "id": 746,
+   "it": "qualità",
+   "es": "calidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 747,
+   "it": "qualsiasi",
+   "es": "cualquier",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 748,
+   "it": "qualunque",
+   "es": "cualquiera",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 749,
+   "it": "quando",
+   "es": "cuándo / cuando",
+   "categoria": "Adv./Cong."
+ },
+ {
+   "id": 750,
+   "it": "quantità",
+   "es": "cantidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 751,
+   "it": "quanto",
+   "es": "cuánto",
+   "categoria": "Adj./Pron./Adv"
+ },
+ {
+   "id": 752,
+   "it": "quasi",
+   "es": "casi",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 753,
+   "it": "quello",
+   "es": "ese / aquel",
+   "categoria": "Adj./Pron."
+ },
+ {
+   "id": 754,
+   "it": "questione",
+   "es": "cuestión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 755,
+   "it": "questo",
+   "es": "este",
+   "categoria": "Adj./Pron."
+ },
+ {
+   "id": 756,
+   "it": "qui",
+   "es": "aquí",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 757,
+   "it": "quindi",
+   "es": "por lo tanto / entonces",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 758,
+   "it": "quotidiano",
+   "es": "cotidiano / diario",
+   "categoria": "Adjetivo/Sust"
+ },
+ {
+   "id": 759,
+   "it": "raccogliere",
+   "es": "recoger",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 760,
+   "it": "raccomandare",
+   "es": "recomendar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 761,
+   "it": "raccontare",
+   "es": "contar (historias)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 762,
+   "it": "raggiungere",
+   "es": "alcanzar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 763,
+   "it": "ragione",
+   "es": "razón",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 764,
+   "it": "rapido",
+   "es": "rápido",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 765,
+   "it": "apporto",
+   "es": "relación / informe",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 766,
+   "it": "rappresentare",
+   "es": "representar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 767,
+   "it": "raro",
+   "es": "raro",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 768,
+   "it": "realtà",
+   "es": "realidad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 769,
+   "it": "recare",
+   "es": "llevar / causar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 770,
+   "it": "recente",
+   "es": "reciente",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 771,
+   "it": "regalo",
+   "es": "regalo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 772,
+   "it": "reggere",
+   "es": "sostener / aguantar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 773,
+   "it": "regola",
+   "es": "regla",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 774,
+   "it": "relazione",
+   "es": "relación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 775,
+   "it": "rendere",
+   "es": "rendir / devolver / hacer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 776,
+   "it": "resistere",
+   "es": "resistir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 777,
+   "it": "respiro",
+   "es": "respiración / aliento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 778,
+   "it": "responsabile",
+   "es": "responsable",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 779,
+   "it": "restare",
+   "es": "quedarse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 780,
+   "it": "resto",
+   "es": "resto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 781,
+   "it": "ricchezza",
+   "es": "riqueza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 782,
+   "it": "ricco",
+   "es": "rico",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 783,
+   "it": "ricerca",
+   "es": "búsqueda / investigación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 784,
+   "it": "ricevere",
+   "es": "recibir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 785,
+   "it": "richiedere",
+   "es": "requerir / volver a pedir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 786,
+   "it": "riconoscere",
+   "es": "reconocer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 787,
+   "it": "ricordare",
+   "es": "recordar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 788,
+   "it": "ricordo",
+   "es": "recuerdo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 789,
+   "it": "ridere",
+   "es": "reír",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 790,
+   "it": "ridurre",
+   "es": "reducir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 791,
+   "it": "riempire",
+   "es": "llenar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 792,
+   "it": "rifiutare",
+   "es": "rechazar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 793,
+   "it": "riguardare",
+   "es": "concernir / volver a mirar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 794,
+   "it": "rimanere",
+   "es": "permanecer / quedarse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 795,
+   "it": "rimettere",
+   "es": "volver a poner",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 796,
+   "it": "ringraziare",
+   "es": "agradecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 797,
+   "it": "rinunciare",
+   "es": "renunciar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 798,
+   "it": "riparare",
+   "es": "reparar / resguardar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 799,
+   "it": "ripetere",
+   "es": "repetir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 800,
+   "it": "riposare",
+   "es": "descansar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 801,
+   "it": "riprendere",
+   "es": "retomar / reprender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 802,
+   "it": "risolvere",
+   "es": "resolver",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 803,
+   "it": "risorsa",
+   "es": "recurso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 804,
+   "it": "risparmiare",
+   "es": "ahorrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 805,
+   "it": "rispettare",
+   "es": "respetar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 806,
+   "it": "rispetto",
+   "es": "respeto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 807,
+   "it": "rispondere",
+   "es": "responder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 808,
+   "it": "risposta",
+   "es": "respuesta",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 809,
+   "it": "risultare",
+   "es": "resultar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 810,
+   "it": "risultato",
+   "es": "resultado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 811,
+   "it": "ritardare",
+   "es": "retrasar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 812,
+   "it": "ritardo",
+   "es": "retraso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 813,
+   "it": "ritenere",
+   "es": "considerar / creer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 814,
+   "it": "ritornare",
+   "es": "volver / regresar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 815,
+   "it": "ritorno",
+   "es": "retorno / vuelta",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 816,
+   "it": "ritrovare",
+   "es": "reencontrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 817,
+   "it": "riuscire",
+   "es": "lograr / poder (capacidad)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 818,
+   "it": "riva",
+   "es": "orilla",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 819,
+   "it": "rivelare",
+   "es": "revelar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 820,
+   "it": "rivolgere",
+   "es": "dirigir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 821,
+   "it": "roba",
+   "es": "cosa / cosas (informal)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 822,
+   "it": "rompere",
+   "es": "romper",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 823,
+   "it": "rumore",
+   "es": "ruido",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 824,
+   "it": "sacrificio",
+   "es": "sacrificio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 825,
+   "it": "sala",
+   "es": "sala",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 826,
+   "it": "salire",
+   "es": "subir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 827,
+   "it": "saltare",
+   "es": "saltar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 828,
+   "it": "salutare",
+   "es": "saludar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 829,
+   "it": "salvare",
+   "es": "salvar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 830,
+   "it": "sangue",
+   "es": "sangre",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 831,
+   "it": "sapere",
+   "es": "saber",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 832,
+   "it": "sbagliare",
+   "es": "equivocarse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 833,
+   "it": "scala",
+   "es": "escalera",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 834,
+   "it": "scappare",
+   "es": "escapar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 835,
+   "it": "scegliere",
+   "es": "elegir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 836,
+   "it": "scelta",
+   "es": "elección",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 837,
+   "it": "scena",
+   "es": "escena",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 838,
+   "it": "scendere",
+   "es": "bajar / descender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 839,
+   "it": "scherzare",
+   "es": "bromear",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 840,
+   "it": "scomparire",
+   "es": "desaparecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 841,
+   "it": "scoprire",
+   "es": "descubrir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 842,
+   "it": "scorrere",
+   "es": "fluir / correr (líquido/tiempo)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 843,
+   "it": "scorso",
+   "es": "pasado / último",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 844,
+   "it": "scrivere",
+   "es": "escribir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 845,
+   "it": "scuola",
+   "es": "escuela",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 846,
+   "it": "scusa",
+   "es": "excusa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 847,
+   "it": "scusare",
+   "es": "disculpar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 848,
+   "it": "se",
+   "es": "si",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 849,
+   "it": "secolo",
+   "es": "siglo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 850,
+   "it": "secondo",
+   "es": "segundo / según",
+   "categoria": "Adj./Prep."
+ },
+ {
+   "id": 851,
+   "it": "sede",
+   "es": "sede",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 852,
+   "it": "sedere",
+   "es": "sentarse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 853,
+   "it": "segnale",
+   "es": "señal",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 854,
+   "it": "segnare",
+   "es": "marcar / anotar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 855,
+   "it": "segno",
+   "es": "signo / señal",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 856,
+   "it": "segreto",
+   "es": "secreto",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 857,
+   "it": "seguire",
+   "es": "seguir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 858,
+   "it": "sembrare",
+   "es": "parecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 859,
+   "it": "semplice",
+   "es": "simple / sencillo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 860,
+   "it": "sempre",
+   "es": "siempre",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 861,
+   "it": "senso",
+   "es": "sentido",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 862,
+   "it": "sentimento",
+   "es": "sentimiento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 863,
+   "it": "sentire",
+   "es": "oír / sentir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 864,
+   "it": "senza",
+   "es": "sin",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 865,
+   "it": "sera",
+   "es": "tarde / noche",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 866,
+   "it": "serio",
+   "es": "serio",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 867,
+   "it": "servire",
+   "es": "servir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 868,
+   "it": "servizio",
+   "es": "servicio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 869,
+   "it": "severo",
+   "es": "severo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 870,
+   "it": "sforzo",
+   "es": "esfuerzo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 871,
+   "it": "sguardo",
+   "es": "mirada",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 872,
+   "it": "sicuro",
+   "es": "seguro",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 873,
+   "it": "significare",
+   "es": "significar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 874,
+   "it": "signora",
+   "es": "señora",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 875,
+   "it": "signore",
+   "es": "señor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 876,
+   "it": "silenzio",
+   "es": "silencio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 877,
+   "it": "simile",
+   "es": "similar / semejante",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 878,
+   "it": "simpatico",
+   "es": "simpático",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 879,
+   "it": "smettere",
+   "es": "dejar de",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 880,
+   "it": "soffrire",
+   "es": "sufrir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 881,
+   "it": "sogno",
+   "es": "sueño",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 882,
+   "it": "solito",
+   "es": "habitual / usual",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 883,
+   "it": "solo",
+   "es": "solo / solamente",
+   "categoria": "Adj./Adv."
+ },
+ {
+   "id": 884,
+   "it": "soltanto",
+   "es": "solamente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 885,
+   "it": "soluzione",
+   "es": "solución",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 886,
+   "it": "somigliare",
+   "es": "parecerse",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 887,
+   "it": "sopra",
+   "es": "encima / sobre",
+   "categoria": "Adv./Prep."
+ },
+ {
+   "id": 888,
+   "it": "soprattutto",
+   "es": "sobre todo",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 889,
+   "it": "sorella",
+   "es": "hermana",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 890,
+   "it": "sorpresa",
+   "es": "sorpresa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 891,
+   "it": "sorridere",
+   "es": "sonreír",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 892,
+   "it": "sospettare",
+   "es": "sospechar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 893,
+   "it": "sostenere",
+   "es": "sostener / apoyar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 894,
+   "it": "sotto",
+   "es": "debajo",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 895,
+   "it": "spalla",
+   "es": "hombro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 896,
+   "it": "sparire",
+   "es": "desaparecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 897,
+   "it": "spazio",
+   "es": "espacio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 898,
+   "it": "speciale",
+   "es": "especial",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 899,
+   "it": "specie",
+   "es": "especie",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 900,
+   "it": "spegnere",
+   "es": "apagar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 901,
+   "it": "sperare",
+   "es": "esperar (tener esperanza)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 902,
+   "it": "spesa",
+   "es": "gasto / compra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 903,
+   "it": "spesso",
+   "es": "a menudo",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 904,
+   "it": "spettacolo",
+   "es": "espectáculo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 905,
+   "it": "spiegare",
+   "es": "explicar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 906,
+   "it": "ingere",
+   "es": "empujar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 907,
+   "it": "spirito",
+   "es": "espíritu",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 908,
+   "it": "sporco",
+   "es": "sucio",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 909,
+   "it": "sport",
+   "es": "deporte",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 910,
+   "it": "sposare",
+   "es": "casarse con",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 911,
+   "it": "spostare",
+   "es": "desplazar / mover",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 912,
+   "it": "stabilire",
+   "es": "establecer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 913,
+   "it": "stagione",
+   "es": "estación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 914,
+   "it": "stampa",
+   "es": "prensa / impresión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 915,
+   "it": "stancare",
+   "es": "cansar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 916,
+   "it": "stanza",
+   "es": "habitación",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 917,
+   "it": "stare",
+   "es": "estar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 918,
+   "it": "stato",
+   "es": "estado",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 919,
+   "it": "stazione",
+   "es": "estación (tren/bus)",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 920,
+   "it": "stella",
+   "es": "estrella",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 921,
+   "it": "stesso",
+   "es": "mismo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 922,
+   "it": "storia",
+   "es": "historia",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 923,
+   "it": "strada",
+   "es": "calle / carretera",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 924,
+   "it": "strano",
+   "es": "extraño",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 925,
+   "it": "straordinario",
+   "es": "extraordinario",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 926,
+   "it": "stringere",
+   "es": "apretar / estrechar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 927,
+   "it": "strumento",
+   "es": "instrumento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 928,
+   "it": "studiare",
+   "es": "estudiar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 929,
+   "it": "studio",
+   "es": "estudio",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 930,
+   "it": "stupido",
+   "es": "estúpido",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 931,
+   "it": "su",
+   "es": "sobre / arriba",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 932,
+   "it": "subito",
+   "es": "enseguida",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 933,
+   "it": "succedere",
+   "es": "suceder",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 934,
+   "it": "successo",
+   "es": "éxito",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 935,
+   "it": "sufficiente",
+   "es": "suficiente",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 936,
+   "it": "suono",
+   "es": "sonido",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 937,
+   "it": "superare",
+   "es": "superar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 938,
+   "it": "superiore",
+   "es": "superior",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 939,
+   "it": "sviluppare",
+   "es": "desarrollar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 940,
+   "it": "svolgere",
+   "es": "desarrollar / desenvolver",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 941,
+   "it": "tacere",
+   "es": "callar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 942,
+   "it": "tagliare",
+   "es": "cortar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 943,
+   "it": "tale",
+   "es": "tal / semejante",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 944,
+   "it": "tanto",
+   "es": "tanto / mucho",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 945,
+   "it": "tardi",
+   "es": "tarde",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 946,
+   "it": "tasca",
+   "es": "bolsillo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 947,
+   "it": "tavolo",
+   "es": "mesa",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 948,
+   "it": "teatro",
+   "es": "teatro",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 949,
+   "it": "tecnica",
+   "es": "técnica",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 950,
+   "it": "telefono",
+   "es": "teléfono",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 951,
+   "it": "televisione",
+   "es": "televisión",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 952,
+   "it": "temere",
+   "es": "temer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 953,
+   "it": "tempo",
+   "es": "tiempo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 954,
+   "it": "tendere",
+   "es": "tender / estirar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 955,
+   "it": "tenere",
+   "es": "tener / mantener",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 956,
+   "it": "tentare",
+   "es": "intentar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 957,
+   "it": "termine",
+   "es": "término",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 958,
+   "it": "terra",
+   "es": "tierra",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 959,
+   "it": "terribile",
+   "es": "terrible",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 960,
+   "it": "testa",
+   "es": "cabeza",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 961,
+   "it": "tipo",
+   "es": "tipo",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 962,
+   "it": "tirare",
+   "es": "tirar / jalar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 963,
+   "it": "titolo",
+   "es": "título",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 964,
+   "it": "toccare",
+   "es": "tocar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 965,
+   "it": "togliere",
+   "es": "quitar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 966,
+   "it": "tono",
+   "es": "tono",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 967,
+   "it": "tornare",
+   "es": "regresar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 968,
+   "it": "tra",
+   "es": "entre",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 969,
+   "it": "tradire",
+   "es": "traicionar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 970,
+   "it": "trarre",
+   "es": "sacar / extraer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 971,
+   "it": "trascinare",
+   "es": "arrastrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 972,
+   "it": "trascorrere",
+   "es": "transcurrir / pasar (tiempo)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 973,
+   "it": "trasferire",
+   "es": "transferir / trasladar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 974,
+   "it": "trattare",
+   "es": "tratar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 975,
+   "it": "tratto",
+   "es": "rasgo / trecho",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 976,
+   "it": "tremendo",
+   "es": "tremendo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 977,
+   "it": "treno",
+   "es": "tren",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 978,
+   "it": "triste",
+   "es": "triste",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 979,
+   "it": "troppo",
+   "es": "demasiado",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 980,
+   "it": "trovare",
+   "es": "encontrar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 981,
+   "it": "tuttavia",
+   "es": "sin embargo",
+   "categoria": "Conjunción"
+ },
+ {
+   "id": 982,
+   "it": "tutto",
+   "es": "todo",
+   "categoria": "Adjetivo/Pron"
+ },
+ {
+   "id": 983,
+   "it": "uccidere",
+   "es": "matar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 984,
+   "it": "udire",
+   "es": "oír",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 985,
+   "it": "ufficiale",
+   "es": "oficial",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 986,
+   "it": "ufficio",
+   "es": "oficina",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 987,
+   "it": "uguale",
+   "es": "igual",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 988,
+   "it": "ultimo",
+   "es": "último",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 989,
+   "it": "umano",
+   "es": "humano",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 990,
+   "it": "unico",
+   "es": "único",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 991,
+   "it": "unire",
+   "es": "unir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 992,
+   "it": "uomo",
+   "es": "hombre",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 993,
+   "it": "usare",
+   "es": "usar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 994,
+   "it": "uscire",
+   "es": "salir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 995,
+   "it": "uso",
+   "es": "uso",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 996,
+   "it": "utile",
+   "es": "útil",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 997,
+   "it": "valere",
+   "es": "valer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 998,
+   "it": "valore",
+   "es": "valor",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 999,
+   "it": "vario",
+   "es": "vario",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 1000,
+   "it": "vecchio",
+   "es": "viejo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 1001,
+   "it": "vedere",
+   "es": "ver",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1002,
+   "it": "veloce",
+   "es": "veloz / rápido",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 1003,
+   "it": "vendere",
+   "es": "vender",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1004,
+   "it": "venire",
+   "es": "venir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1005,
+   "it": "vento",
+   "es": "viento",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1006,
+   "it": "veramente",
+   "es": "verdaderamente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 1007,
+   "it": "verità",
+   "es": "verdad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1008,
+   "it": "vero",
+   "es": "VERDADERO",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 1009,
+   "it": "verso",
+   "es": "hacia",
+   "categoria": "Preposición"
+ },
+ {
+   "id": 1010,
+   "it": "vestire",
+   "es": "vestir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1011,
+   "it": "via",
+   "es": "calle / vía / fuera",
+   "categoria": "Sust./Adv."
+ },
+ {
+   "id": 1012,
+   "it": "viaggio",
+   "es": "viaje",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1013,
+   "it": "vicino",
+   "es": "cerca / cercano / vecino",
+   "categoria": "Adj./Adv./Sust"
+ },
+ {
+   "id": 1014,
+   "it": "vietare",
+   "es": "prohibir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1015,
+   "it": "vincere",
+   "es": "ganar (competición)",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1016,
+   "it": "vino",
+   "es": "vino",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1017,
+   "it": "visita",
+   "es": "visita",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1018,
+   "it": "viso",
+   "es": "rostro / cara",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1019,
+   "it": "vista",
+   "es": "vista",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1020,
+   "it": "vita",
+   "es": "vida",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1021,
+   "it": "vivere",
+   "es": "vivir",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1022,
+   "it": "vivo",
+   "es": "vivo",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 1023,
+   "it": "voce",
+   "es": "voz",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1024,
+   "it": "voglia",
+   "es": "ganas",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1025,
+   "it": "volare",
+   "es": "volar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1026,
+   "it": "volentieri",
+   "es": "con gusto / gustosamente",
+   "categoria": "Adverbio"
+ },
+ {
+   "id": 1027,
+   "it": "volere",
+   "es": "querer",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1028,
+   "it": "volgere",
+   "es": "volver / girar",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1029,
+   "it": "volontà",
+   "es": "voluntad",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1030,
+   "it": "volta",
+   "es": "vez",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1031,
+   "it": "voltare",
+   "es": "girar / voltear",
+   "categoria": "Verbo"
+ },
+ {
+   "id": 1032,
+   "it": "vuoto",
+   "es": "vacío",
+   "categoria": "Adjetivo"
+ },
+ {
+   "id": 1033,
+   "it": "zia",
+   "es": "tía",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1034,
+   "it": "zio",
+   "es": "tío",
+   "categoria": "Sustantivo"
+ },
+ {
+   "id": 1035,
+   "it": "zona",
+   "es": "zona",
+   "categoria": "Sustantivo"
+ }
+]
