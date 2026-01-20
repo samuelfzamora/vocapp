@@ -17,7 +17,7 @@ const feedback = ref(null);
 const progress = ref(loadProgress());
 
 onMounted(async () => {
-  const res = await fetch('/vocab.json');
+  const res = await fetch(import.meta.env.BASE_URL + 'vocab.json');
   vocab.value = await res.json();
   nextQuestion();
 });
