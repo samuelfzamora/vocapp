@@ -110,6 +110,5 @@ Las contribuciones son bienvenidas mediante forks y pull requests.
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT.
-
+Este proyecto se distribuye bajo la licencia MIT.  
 Puedes usarlo, modificarlo y redistribuirlo libremente, incluso para otros proyectos.
