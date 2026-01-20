@@ -68,6 +68,7 @@ Para GitHub Pages, el contenido generado se publica desde la carpeta docs/
 
 ## 📁 Estructura del proyecto
 
+```text
 /public
   ├─ vocab.json
   ├─ sw.js
@@ -79,30 +80,36 @@ Para GitHub Pages, el contenido generado se publica desde la carpeta docs/
   ├─ services
   └─ App.vue
 
+```  
+
 
 ## 🗺️ Roadmap
 
- ✅ Quiz básico IT ↔ ES
- ✅ Repetición de palabras falladas
- ✅ Persistencia local sin login
- ✅ PWA offline
- ⏹️ Ampliación de vocabulario a nivel B2
- ⏹️ Clasificación por nivel (B1 / B2 / C1)
- ⏹️ Mejora de UI/UX (interfaz y experiencia de usuario)
- ⏹️ Estadísticas más detalladas
+
+- ✅ Quiz básico IT ↔ ES
+- ✅ Repetición de palabras falladas
+- ✅ Persistencia local sin login
+- ✅ PWA offline
+- ⏹️ Ampliación de vocabulario a nivel B2
+- ⏹️ Clasificación por nivel (B1 / B2 / C1)
+- ⏹️ Mejora de UI/UX (interfaz y experiencia de usuario)
+- ⏹️ Estadísticas más detalladas
+
 
 
 ## 🤝 Contribuciones
 
 Cualquiera puede:
-usar la aplicación
-modificar el código
-adaptarla a otros idiomas
-ampliar el vocabulario
-mejorar la interfaz
+- Usar la aplicación
+- Modificar el código
+- Adaptarla a otros idiomas
+- Ampliar el vocabulario
+- Mejorar la interfaz
+
 Las contribuciones son bienvenidas mediante forks y pull requests.
 
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
+
 Puedes usarlo, modificarlo y redistribuirlo libremente, incluso para otros proyectos.
