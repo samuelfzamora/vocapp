@@ -54,6 +54,8 @@ Clona el repositorio y ejecuta:
 npm install
 npm run dev
 
+```
+
 La aplicación local estará disponible en http://localhost:5173.
 
 ---
